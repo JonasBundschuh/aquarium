@@ -1,0 +1,8 @@
+C:\Projetcs\aquarium\Aquarium\Aquarium\bin\Debug\Aquarium.exe.config
+C:\Projetcs\aquarium\Aquarium\Aquarium\bin\Debug\Aquarium.exe
+C:\Projetcs\aquarium\Aquarium\Aquarium\bin\Debug\Aquarium.pdb
+C:\Projetcs\aquarium\Aquarium\Aquarium\obj\Debug\Aquarium.csproj.AssemblyReference.cache
+C:\Projetcs\aquarium\Aquarium\Aquarium\obj\Debug\Aquarium.csproj.SuggestedBindingRedirects.cache
+C:\Projetcs\aquarium\Aquarium\Aquarium\obj\Debug\Aquarium.csproj.CoreCompileInputs.cache
+C:\Projetcs\aquarium\Aquarium\Aquarium\obj\Debug\Aquarium.exe
+C:\Projetcs\aquarium\Aquarium\Aquarium\obj\Debug\Aquarium.pdb
