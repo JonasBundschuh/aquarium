@@ -52,6 +52,9 @@ namespace Aquarium
                 }    
                 Console.Write("\n");
             }
+
+            List<Fishes> fishies = new List<Fishes>();
+            fishies.Add(new Fishes());
             Console.ReadLine();
         }
     }
