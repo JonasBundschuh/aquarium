@@ -14,6 +14,7 @@ namespace Aquarium
             int x = 20;
             int y = 20;
             string[,] aquarium = new string[x, y];
+
             for (int j = 0; j < x; j++)
             {
                 for(int i = 0; i<y; i++)
