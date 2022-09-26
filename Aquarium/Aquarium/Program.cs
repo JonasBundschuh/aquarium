@@ -11,8 +11,13 @@ namespace Aquarium
         static void Main(string[] args)
         {
 
-            int x = 20;
-            int y = 20;
+            //Aquarium abfragen
+            Console.WriteLine("How long do you want your aquarium to be?");
+            int x = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("How wide do you want your aquarium to be?");
+            int y = Convert.ToInt32(Console.ReadLine());
+            
+            
             string[,] aquarium = new string[x, y];
 
             for (int j = 0; j < x; j++)
